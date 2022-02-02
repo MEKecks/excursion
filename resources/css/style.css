@@ -5,3 +5,27 @@ html {
     text-align: center;
     margin: 0;
 }
+
+.welcome {
+    font-size: 50px;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.subtitle {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.greytext {
+    font-size: 21px;
+    color: gray;
+}
+
+.footer {
+    color: gray;
+    text-align: right;
+}
