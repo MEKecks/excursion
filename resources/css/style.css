@@ -8,11 +8,13 @@ html {
 .welcome {
     font-size: 50px;
     color: white;
+    font-weight: normal;
 }
 
 .link {
     color: aquamarine;
     font-size: 16px;
+    font-weight: normal;
 }
 
 .subtitle {
